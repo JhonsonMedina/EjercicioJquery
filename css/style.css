@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#img1{
+    
+    height: 220px;
+    width: 420px;
+}
+
+#img2{
+  
+    height: 220px;
+    width: 420px;
+}
+
+#img3{
+   
+    height: 220px;
+    width: 420px;
+}
+
+#img4{
+    
+    height: 220px;
+    width: 420px;
+}
+#img5{
+
+    height: 220px;
+    width: 420px;
+}
+
+#img6{
+  
+    height: 220px;
+    width: 420px;
+}
+
+
+.box {
+    width: 200px;
+    
+}
+
+
+.hovered {
+  width: 800px;
+  color: white;
+}
